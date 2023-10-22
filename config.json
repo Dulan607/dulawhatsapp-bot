@@ -1,7 +1,7 @@
- {
+i {
   "timeZone": "Asia/Jakarta",
   "language": "en",
-  "ownerNumber": ["", ""],
+  "ownerNumber": [""94768115519""],
   "readStatus": false,
   "readMessage": false,
   "antiCall": {
@@ -9,7 +9,7 @@
     "block": false,
     "ban": false
   },
-  "prefix": "!#.",
+  "prefix": "!.",
   "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
   "footer": "arugaz/whatsapp-bot",
   "self": true,
